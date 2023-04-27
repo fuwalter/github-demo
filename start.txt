@@ -6,3 +6,4 @@ This is line #4.
 This is added in the feat-section branch.
 
 This line is added in the branch2 branch.
+This line is added in the local branch3.
