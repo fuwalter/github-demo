@@ -7,3 +7,5 @@ This is added in the feat-section branch.
 
 This line is added in the branch2 branch.
 This line is added in the local branch3.
+This is the line that's added in the fork.
+This is the line that is in reponse to the requested changes from the owner of the repo.
